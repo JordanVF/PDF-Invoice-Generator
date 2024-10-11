@@ -7,7 +7,7 @@ A Python application that generates a PDF invoice using `Tkinter` for the GUI an
 ## Installation 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PDF-Invoice-Generator.git
+   git clone https://github.com/JordanVF/PDF-Invoice-Generator.git
 2. Navigate to the project directory: 
 ```bash
 cd PDF-Invoice-Generator
