@@ -20,12 +20,12 @@ pip install fpdf tkinter
 ## Usage
 1. Run the application
 2. In the GUI:
-    -Select a medicine from the list.
-    -Enter the quantity of the selected medicine.
-    -Click Add Medicine to add it to the cart.
-    -The total amount will update automatically.
-    -Enter the customer's name.
-    -Click Generate Invoice to create a PDF file of the invoice in the specified directory.
+    - Select a medicine from the list.
+    - Enter the quantity of the selected medicine.
+    - Click Add Medicine to add it to the cart.
+    - The total amount will update automatically.
+    - Enter the customer's name.
+    - Click Generate Invoice to create a PDF file of the invoice in the specified directory.
 3. The generated PDF invoice will include the customer's name, a list of purchased medicines with quantities and totals, and the overall total amount.
 
 ## How it works
